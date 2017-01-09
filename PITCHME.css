@@ -1,0 +1,35 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  background: none;
+}
+
+.reveal .main-title {
+    color: #16B7CE;
+}
+
+.reveal .subtitle {
+    font-size: 1.25em;
+    font-style: italic;
+}
+
+.reveal img.main-logo {
+    width: 500px;
+}
+
+.reveal span.highlight {
+    /*color: #e49436;*/
+    color: #16B7CE;
+}
+
+.reveal h2 {
+    font-size: 1.7em;
+}
+
+.reveal h3 {
+    font-size: 1.4em;
+}
+
+.reveal h4 {
+    font-size: 1em;
+}
