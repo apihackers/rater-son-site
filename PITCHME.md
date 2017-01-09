@@ -124,6 +124,7 @@
 
 ## Merci
 
+![API Hackers Logo](https://apihackers.com/theme/img/logo-dark.svg)<!-- .element: class="main-logo" -->
 [apihackers.com](https://apihackers.com/)
 
 Axel Haustant [@noirbizarre](https://twitter.com/noirbizarre)
