@@ -73,7 +73,7 @@
 
 #### Est-ce qu'il y a des visites ? <!-- .element: class="fragment" -->
 
-#### Mes contenus ont-il de l'impact ?  <!-- .element: class="fragment" -->
+#### Mes contenus ont-ils de l'impact ?  <!-- .element: class="fragment" -->
 
 
 #HSLIDE
