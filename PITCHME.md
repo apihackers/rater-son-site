@@ -93,7 +93,7 @@
 
 #### Contenu standard <!-- .element: class="fragment" -->
 
-#### Feedly, Instapaper <!-- .element: class="fragment" -->
+#### Feedly, Instapaper, Google News, Freebox... <!-- .element: class="fragment" -->
 
 
 #HSLIDE
