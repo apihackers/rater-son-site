@@ -9,29 +9,29 @@
 
 ## Ne pas avoir de <span class="highlight">projet</span>
 
-#### Un site pourquoi ? <!-- .element: class="fragment" -->
+#### Un site ? pourquoi ? <!-- .element: class="fragment" -->
 
-#### Vitrine ? Outil de conversion ? Boutique...  <!-- .element: class="fragment" -->
+#### Vitrine ? Outil de conversion ? Boutique…  <!-- .element: class="fragment" -->
 
 
 #HSLIDE
 
 ## Ne pas comprendre le <span class="highlight">devis</span>
 
-#### Coûts cachés ? <!-- .element: class="fragment" -->
+#### Que payez-vous ? <!-- .element: class="fragment" -->
 
-#### Modèle captif  <!-- .element: class="fragment" -->
+#### Coûts cachés ? Modèle captif ? <!-- .element: class="fragment" -->
 
-#### Recettage <!-- .element: class="fragment" -->
+#### Recettage, Livraison… <!-- .element: class="fragment" -->
 
 
 #HSLIDE
 
 ## Ne pas être <span class="highlight">responsive</span>
 
-#### 80% du traffic est mobile <!-- .element: class="fragment" -->
+#### 80% du traffic internet est mobile ! <!-- .element: class="fragment" -->
 
-#### 80% du traffic est mobile <!-- .element: class="fragment" -->
+#### 80% du traffic internet est mobile !!<!-- .element: class="fragment" -->
 
 
 #HSLIDE
