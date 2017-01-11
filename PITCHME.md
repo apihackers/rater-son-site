@@ -51,9 +51,9 @@
 
 #### Comment ça marche ? <!-- .element: class="fragment" -->
 
-#### Quelles sont les possibilités  <!-- .element: class="fragment" -->
+#### Quelles sont les possibilités ? <!-- .element: class="fragment" -->
 
-#### Quelles sont les limites  <!-- .element: class="fragment" -->
+#### Quelles sont les limites ? <!-- .element: class="fragment" -->
 
 
 #HSLIDE
